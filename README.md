@@ -1,2 +1,2 @@
-# bank-data-kubar
-Sarana untuk berbagi data menghimpun, mengelola, dan menampilkan data pembangunan daerah di Kabupaten Kutai Barat. 
+# CAP-KT-KUTAI-BARAT
+digunakan sebagai media melakukan input data, cek aktivitas dan program kemiskinan terpadu di Kabupaten Kutai Barat. 
